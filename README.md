@@ -1,4 +1,4 @@
 uran
 ====
 
-Uran - Science experiments with your phone
+Uran - testing app
